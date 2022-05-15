@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<students>
+    <name>zhange</name>
+    <no>005</no>
+    <score>500</score>
+    <name>li</name>
+    <no>003</no>
+    <score>480</score>
+    <name>wang</name>
+    <no>007</no>
+    <score>510</score>
+</students>
